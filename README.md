@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm ASHISH SHARMA</h1>
-<h3 align="left">NLP enthusiast | Data and AI |Enterprise RPA (COE) | AI Community Lead</h3>
+<h3 align="left">NLP enthusiast | Data and AI |  AI Community Lead</h3>
 <p dir="auto"> I am deeply immersed in the world of deep learning and machine learning. For me, the ability to tackle problems and uncover valuable insights using machine learning algorithms feels like a superhuman skill. I'm here to find solutions and, in the process, I'm continuously learning and growing.</p>
 
 <h3 align="left">Connect with me:</h3>
